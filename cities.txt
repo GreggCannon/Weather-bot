@@ -1,6 +1,6 @@
 # One city per line. Lines starting with # are ignored.
 # Add a state or country after a comma if the name is ambiguous.
-Houston, TX
+Sam Houston Race Track
 New York, NY
 London, GB
 Tokyo, Japan
